@@ -1,0 +1,27 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="24" height="24" fill="#ACACAC"/>
+<rect id="Rectangle 107" x="-3193" y="-2214" width="6015" height="5531" fill="#FF0000"/>
+<g id="Yangiliklar" clip-path="url(#clip0_366_614)">
+<rect width="1440" height="2186" transform="translate(-1242 -1815)" fill="white"/>
+<g id="Frame 11" filter="url(#filter0_b_366_614)">
+<rect x="-93" y="-12" width="141" height="48" rx="12" fill="black" fill-opacity="0.08"/>
+<g id="east_black_24dp (2) 1" clip-path="url(#clip1_366_614)">
+<path id="Vector" d="M18.2895 14.29C17.8995 13.9 17.2695 13.9 16.8795 14.29L12.9995 18.17L12.9995 3C12.9995 2.45 12.5495 2 11.9995 2C11.4495 2 10.9995 2.45 10.9995 3L10.9995 18.18L7.11953 14.3C6.72953 13.91 6.09953 13.91 5.70953 14.3C5.31953 14.69 5.31953 15.32 5.70953 15.71L11.2995 21.3C11.6895 21.69 12.3195 21.69 12.7095 21.3L18.2895 15.7C18.6795 15.32 18.6795 14.68 18.2895 14.29Z" fill="#595959"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_b_366_614" x="-113" y="-32" width="181" height="88" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="10"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_366_614"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_366_614" result="shape"/>
+</filter>
+<clipPath id="clip0_366_614">
+<rect width="1440" height="2186" fill="white" transform="translate(-1242 -1815)"/>
+</clipPath>
+<clipPath id="clip1_366_614">
+<rect width="24" height="24" fill="white" transform="translate(24) rotate(90)"/>
+</clipPath>
+</defs>
+</svg>

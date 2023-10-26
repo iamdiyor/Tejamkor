@@ -1,0 +1,20 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="32" height="32" fill="#F5F5F5"/>
+<g id="Tejamkor yechim">
+<rect width="1440" height="4225" transform="translate(-951 -1582)" fill="white"/>
+<g id="Group 35">
+<path id="Rectangle 32" d="M-24 -162C-24 -176.359 -12.3594 -188 2 -188H314C328.359 -188 340 -176.359 340 -162V169C340 183.359 328.359 195 314 195H2.00001C-12.3594 195 -24 183.359 -24 169V-162Z" fill="#FCFCFC"/>
+<g id="Group 30">
+<g id="Frame" clip-path="url(#clip0_0_1)">
+<path id="Vector" d="M22.9338 9.33342C21.8086 8.04719 20.3829 7.17716 18.8356 6.83242C17.2883 6.48768 15.6881 6.68358 14.2358 7.39555C12.7835 8.10752 11.5437 9.30386 10.6719 10.8346C9.80004 12.3653 9.33496 14.1622 9.33496 16.0001C9.33496 17.8379 9.80004 19.6349 10.6719 21.1656C11.5437 22.6963 12.7835 23.8927 14.2358 24.6046C15.6881 25.3166 17.2883 25.5125 18.8356 25.1677C20.3829 24.823 21.8086 23.953 22.9338 22.6668" stroke="#595959" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M17.3337 13.3333H6.66699M6.66699 18.6666H17.3337" stroke="#595959" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="32" height="32" fill="white"/>
+</clipPath>
+</defs>
+</svg>

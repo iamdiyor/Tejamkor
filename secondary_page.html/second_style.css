@@ -1,0 +1,85 @@
+html , body {
+    height: 100%;
+}
+
+.wrapper {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.page {
+    flex: 1 1 auto;
+}
+
+.home_logo{
+    display: flex;
+    padding-top: 16px;
+    gap: 4px;
+    color: #595959 ;
+    padding-bottom: 60px;
+
+}
+
+.bx-bxs-home{
+    display: flex;
+    align-content: center;
+}
+
+
+.news{
+    display: flex;
+    gap: 6px;
+    align-items: center;justify-content: center;
+
+}
+
+.news h1 {
+    color: #262626;
+    font-size: 31px;
+    font-weight: 700;
+}
+
+.soliqda_uzgarush_list{
+    display: flex;
+    flex-wrap: nowrap;
+    margin-bottom: 0;
+}
+
+.more_page{
+    /* border-radius: 12px;
+    background: rgba(0, 0, 0, 0.08);
+    backdrop-filter: blur(10px);
+    display: flex;
+    padding: 12px 24px;
+    justify-content: center;
+    align-items: center;
+    gap: 12px; */
+
+    display: flex;
+    justify-content: flex-end;
+    margin-block: 26px 76px;
+    backdrop-filter: rgba(0 ,0 ,0 ,0.08);
+}
+
+.more_page h3{
+    display: inline;
+    /* display: inline-block; */
+}
+.more_text{
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    padding:12px 24px;
+    background-color: #faf8f8;
+    border-radius: 12px;
+    justify-content: center;
+    color:  #595959;
+    font-size: 16px;
+    font-weight: 400;
+    
+}
+
+.more_page img{
+    background-color: #c75a5a;
+}
